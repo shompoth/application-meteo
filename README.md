@@ -1,5 +1,7 @@
 # Application météo
 
+![meteo](https://github.com/shompoth/application-meteo/blob/main/img/screenshot-meteo.png)
+
 Ce projet est une application météo réalisé à l'aide d'une API (OpenWeatherMap), vous permettant de connaitre la température de n'importe quelle ville dans le monde.
 
 Fonctionnalités :
